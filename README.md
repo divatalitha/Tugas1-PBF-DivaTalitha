@@ -46,9 +46,11 @@ $ php spark serve
 #### *Konfigurasi Awal*
 1. Atur mode development
 Masuk ke dalam file **.env** Ubah setelan `CI_ENVIRONMENT` menjadi `development` untuk menampilkan error atau mengaktifkan mode debugging
+
 ![dev](https://github.com/divatalitha/Tugas1_PBF/assets/127199859/58bf4e00-8a30-4808-9c28-08c6a44cd58d)
 
-2. pada bagian `app.baseURL` di isi dengan server localhost
+3. pada bagian `app.baseURL` di isi dengan server localhost
+   
 ![Screenshot 2024-03-18 120853](https://github.com/divatalitha/Tugas1_PBF/assets/127199859/54f3df79-d9b6-4d99-9950-75713d098806) 
 
 ## Bangun Aplikasi pertama

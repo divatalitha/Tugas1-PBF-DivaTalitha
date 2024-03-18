@@ -221,9 +221,11 @@ Note: Akan menampilkan view header, pages (home / about), footer
 http://localhost:8080
 
 - **home.php**
+  
 ![Screenshot 2024-03-18 124641](https://github.com/divatalitha/Tugas1_PBF/assets/127199859/85be54ac-905b-40d2-ba5d-4bebd2e8e31a)
 
 - **about.php**
+  
 ![Screenshot 2024-03-18 124842](https://github.com/divatalitha/Tugas1_PBF/assets/127199859/c3acc6fc-10a8-477c-92a3-0a3e96e35677)
 
 ### *News Section*

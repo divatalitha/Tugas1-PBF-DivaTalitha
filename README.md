@@ -558,6 +558,7 @@ File app/Models/NewsModel.php
 ![Screenshot 2024-03-18 141947](https://github.com/divatalitha/Tugas1_PBF/assets/127199859/68281db5-dcb7-4e78-934e-44aa93faef07)
 
 - http://localhost:8080/news/new
+  
 ![Screenshot 2024-03-18 142125](https://github.com/divatalitha/Tugas1_PBF/assets/127199859/cfd36d40-af3e-49f0-ba50-ef599e3507e5)
 
 ## CodeIgniter4 Overview
